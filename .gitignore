@@ -1,3 +1,7 @@
 #JavaScript
 #过滤node_modules
 node_modules/
+
+#过滤输出目录
+dist/
+
